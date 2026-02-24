@@ -8,8 +8,6 @@ This is a repository for Lyricify releases that can run on Wine.
   - [Table of Contents](#table-of-contents)
   - [Releasing Methods](#releasing-methods)
   - [Installation](#installation)
-    - [via Github Releases](#via-github-releases)
-      - [Auto-install Script](#auto-install-script)
   - [Maintainer](#maintainer)
 
 ## Releasing Methods
